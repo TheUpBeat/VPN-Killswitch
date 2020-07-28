@@ -2,7 +2,7 @@
 
  > This is inspired from [CK-s-Firewall-killswitch](https://github.com/CHEF-KOCH/CK-s-Firewall-killswitch)
 
-A VPN (Virtual Private Network) is often used to avoid censorship, surveillance, or geolocation. This is done by routing the internet traffic from your device to the remote VPN server through an encrypted tunnel. Sometimes, the VPN connection may drop, which will result your traffic being transmitted through the public internet rather than an encrypted VPN tunnel.
+A VPN (Virtual Private Network) is often used to avoid censorship, surveillance, or geolocation. This is done by routing the internet traffic from your device to the remote VPN server through an encrypted tunnel. Sometimes, the VPN connection may drop, which will result in transmitting your traffic through the public internet rather than an encrypted VPN tunnel.
 
 There are some reasons that cause a disconnection
 
