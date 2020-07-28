@@ -19,14 +19,12 @@ For this reason, A Kill switch technique is implemented, which would prevent the
 Most of the VPNs do come with a killswitch, but are not as reliable as using iptables (as it is not dependent on the VPN service and is a kernel feature).
 
 ## Requirements
----
 
 * A Linux machine with root privileges
 * A VPN provider
 * `iptables` should be installed in the machine
 
 ## Rules
----
 
 * Set the base rules to disallow all the traffic
 
