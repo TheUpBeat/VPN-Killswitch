@@ -112,10 +112,10 @@ iptables -A logging -j DROP
 iptables-save > /etc/iptables/iptables.rules
 ```
 
-* To store the rules
+* To restore the rules
 
 ```
 iptables-restore < /etc/iptables/iptables.rules
 ```
 
-* For Persistent rules, use `iptables-persistent.
+* For Persistent rules, use `iptables-persistent`.
